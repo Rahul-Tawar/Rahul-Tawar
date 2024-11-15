@@ -55,7 +55,7 @@ This project was an incredible learning experience! From setting up and optimizi
 
  those "a-ha!" projects where everything clicked.
 
- ### [Promptell](https://github.com/Rahul-Tawar/promptell) (In Progress)
+ ### [Promptell](https://github.com/Rahul-Tawar/promptell)
 
 **Promptell** is an innovative project designed to allow users to create and discover AI prompts easily. The goal is to provide a platform where users can share and explore a diverse range of prompts that inspire creativity and enhance the AI interaction experience.
 
