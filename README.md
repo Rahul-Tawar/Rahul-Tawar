@@ -23,7 +23,7 @@ Here's a snapshot of my go-to tech stack:
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MERN](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MERN](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
