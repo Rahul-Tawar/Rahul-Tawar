@@ -1,10 +1,8 @@
 # Hey there! 👋 I'm Rahul Tawar.
 
-I'm glad you stopped by! I love working on AI, that works.
-
 ---
 
-## 🌱 A Little About Me
+## A Little About Me
 
 I’m a computer science student with a passion for generative AI. My current project, **Promptell**, allows users to create and discover AI prompts, combining my interests in technology and creativity.
 
